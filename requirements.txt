@@ -1,0 +1,9 @@
+arabic_reshaper==3.0.0
+beautifulsoup4==4.11.1
+lxml==4.9.2
+openpyxl==3.0.10
+Pillow==9.5.0
+python_bidi==0.4.2
+twitter-api-client==0.5.7
+tweepy==4.10.0
+Requests==2.31.0
